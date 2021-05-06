@@ -292,4 +292,3 @@ HEAD is now at eb37c0a FileB.Version1
 
 C:\Users\sanm3\devops>more FileB.txt
 "This is fileB - Version1"
-----------------------------------------------------------------
