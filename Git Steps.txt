@@ -1,3 +1,5 @@
+Azure Board integration with github
+
 1. install the Git from https://git-scm.com/download/win
 2. Open command prompt
 3. Check the versin by executing the command "git --version", this makes sure that git is installed on you local machine.
